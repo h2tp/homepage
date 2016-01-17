@@ -27,8 +27,8 @@ Contact : http://blog.elob.fr/index.php?contact
   <!-- Ionicons -->
   <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
     <!-- fullCalendar 2.2.5-->
-    <link rel="stylesheet" href="../../plugins/fullcalendar/fullcalendar.min.css">
-    <link rel="stylesheet" href="../../plugins/fullcalendar/fullcalendar.print.css" media="print">
+    <link rel="stylesheet" href="../plugins/fullcalendar/fullcalendar.min.css">
+    <link rel="stylesheet" href="../plugins/fullcalendar/fullcalendar.print.css" media="print">
   <!-- Theme style -->
   <!--link rel="stylesheet" href="dist/css/AdminLTE.min.css"-->
   <link rel="stylesheet" href="../dist/css/AdminLTE.css">
