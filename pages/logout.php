@@ -1,4 +1,4 @@
 <?php
-	setcookie("login","",-1);
+	setcookie("homepage","",-1);
 	header('Location: login.php');
 ?>
