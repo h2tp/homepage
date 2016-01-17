@@ -1,11 +1,11 @@
 # Homepage
-Cette page d'accueil a été réalisée par Benjamin SECLIER (http://generation-linux.fr) à partir du template AdminLTE (https://almsaeedstudio.com/preview).
-Ce projet est disponible sous licence CC BY-CA (http://creativecommons.org/licenses/by-sa/3.0/deed.fr).
+Cette page d'accueil a été réalisée par [Benjamin SECLIER](http://generation-linux.fr) à partir du template [AdminLTE](https://almsaeedstudio.com/preview).
+Ce projet est disponible sous licence [CC BY-CA](http://creativecommons.org/licenses/by-sa/3.0/deed.fr).
 
 ![Screenshot](https://github.com/bseclier/homepage/raw/master/pages/inc/images/screenshot.jpg)
 
 ## Démo
-Une page de démo est disponible à l'adresse suivante : http://homepage.elob.fr (login : demo ; Mot de passe : !demo!).
+Une page de démo est disponible à [cette adresse](http://homepage.elob.fr) (login : demo ; Mot de passe : !demo!).
 **Il s'agit des mêmes identifiants à entrer quand vous installez le projet chez vous.**
 
 ## Installation
@@ -27,4 +27,4 @@ Afin de vous aider dans l'adoption de cet outil, voici quelques conseils et rema
 - Le fichier ics à afficher est à mettre dans le répertoire "plugins/ics-parser". Il est possible d'afficher plusieurs ics au sein du même calendrier, avec différentes couleurs, une simple boucle PHP est nécessaire.
 
 
-**Si vous avez des questions, des remarques, vous pouvez me contacter à cette adresse http://blog.elob.fr/index.php?contact ou sur la page github du projet.**
+**Si vous avez des questions, des remarques, vous pouvez me contacter à [cette adresse](http://blog.elob.fr/index.php?contact).**
