@@ -2,7 +2,7 @@
 Cette page d'accueil a été réalisée par Benjamin SECLIER (http://generation-linux.fr) à partir du template AdminLTE (https://almsaeedstudio.com/preview).
 Ce projet est disponible sous licence CC BY-CA sur github (https://github.com/bseclier/homepage).
 
-## Démonstration
+## Démo
 Une page de démonstration est disponible à l'adresse suivante : http://homepage.elob.fr (login : demo ; Mot de passe : !demo!).
 **Il s'agit des mêmes identifiants à entrer quand vous installez le projet chez vous.**
 
