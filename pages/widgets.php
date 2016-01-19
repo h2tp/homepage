@@ -36,11 +36,7 @@
                 <div class="box-body">
 Cette page d'accueil a été réalisée par Benjamin SECLIER (<a href='http://generation-linux.fr'>Génération Linux</a>) à partir du template <a href='https://almsaeedstudio.com/preview'>AdminLTE</a>.<br />
 Ce projet est disponible sous licence <a href='http://creativecommons.org/licenses/by-sa/3.0/deed.fr'>CC BY-CA</a> sur github (<a href='https://github.com/bseclier/homepage'>https://github.com/bseclier/homepage</a>).<br />
-<br />
-Une page de démonstration est disponible à l'adresse suivante : <a href='http://homepage.elob.fr'>http://homepage.elob.fr</a> (login : <i>demo</i> ; Mot de passe : <i>!demo!</i>).
-<br />
-<b>Il s'agit des mêmes identifiants à entrer quand vous installez le projet chez vous.</b>
-<br /><br /><br />
+<br /><br />
 Afin de vous aider dans l'adoption de cet outil, voici quelques conseils et remarques :
 <br />
 Site entier<br />

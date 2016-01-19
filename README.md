@@ -5,7 +5,7 @@ Ce projet est disponible sous licence [CC BY-CA](http://creativecommons.org/lice
 ![Screenshot](https://github.com/bseclier/homepage/raw/master/pages/inc/images/screenshot.jpg)
 
 ## Démo
-Une page de démo est disponible à [cette adresse](http://homepage.elob.fr) (login : demo ; Mot de passe : !demo!).
+Une page de démo est disponible à [cette adresse](http://generation-linux.fr/homepage) (login : demo ; Mot de passe : !demo!).
 **Il s'agit des mêmes identifiants à entrer quand vous installez le projet chez vous.**
 
 ## Installation
