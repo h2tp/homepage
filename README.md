@@ -27,4 +27,4 @@ Afin de vous aider dans l'adoption de cet outil, voici quelques conseils et rema
 - Le fichier ics à afficher est à mettre dans le répertoire "plugins/ics-parser". Il est possible d'afficher plusieurs ics au sein du même calendrier, avec différentes couleurs, une simple boucle PHP est nécessaire.
 
 
-**Si vous avez des questions, des remarques, vous pouvez me contacter à [cette adresse](http://blog.elob.fr/index.php?contact).**
+**Si vous avez des questions ou des remarques, vous pouvez me contacter à [cette adresse](http://blog.elob.fr/index.php?contact).**
