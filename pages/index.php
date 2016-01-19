@@ -25,6 +25,7 @@ header('Location: http://www.linguee.fr/anglais-francais/search?query='.$_POST['
 $fic = dirname(__FILE__)."/todo.txt";
 
 #Update de la note
+
 if(isset($_POST['notes'])){
 $fp = fopen($fic, 'w');
 fwrite($fp, $_POST['notes']);

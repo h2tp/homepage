@@ -44,9 +44,21 @@ Contact : http://blog.elob.fr/index.php?contact
   <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
+
+	<!-- REQUIRED JS SCRIPTS -->
+	<!-- jQuery 2.1.4 -->
+	<script src="../plugins/jQuery/jQuery-2.1.4.min.js"></script>
+	<!-- Bootstrap 3.3.5 -->
+	<script src="../bootstrap/js/bootstrap.min.js"></script>
+	<!-- AdminLTE App -->
+	<script src="../dist/js/app.min.js"></script>
+	<!-- Optionally, you can add Slimscroll and FastClick plugins.
+	     Both of these plugins are recommended to enhance the
+	     user experience. Slimscroll is required when using the
+	     fixed layout. -->
+
 </head>
 
-<!--body class="hold-transition skin-blue sidebar-mini"-->
 <body class="hold-transition skin-blue sidebar-mini sidebar-collapse">
 <div class="wrapper">
 
