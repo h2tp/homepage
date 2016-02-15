@@ -20,7 +20,7 @@ Afin de vous aider dans l'adoption de cet outil, voici quelques conseils et rema
 - Pour changer le login et/ou le mot de passe, modifier la ligne correspondante (troisième) dans le fichier "pages/login.php".
 
 ##### Première page
-- Vous pouvez mettre une icône sur les boutons (voir la liste ici) ou mettre un favicon récupéré sur le site en question (dans le répertoire inc/images).
+- Vous pouvez mettre une icône sur les boutons (voir la liste [ici](https://almsaeedstudio.com/themes/AdminLTE/pages/UI/icons.html)) ou mettre un favicon récupéré sur le site en question (dans le répertoire inc/images).
 - Il est très simple de remplacer le moteur de recherche du formulaire, il suffit de modifier l'URL dans la page "pages/index.php".
 
 ##### Calendrier
